@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mootheonga.webstandardssherpa.com/sitemap.xml
